@@ -2,15 +2,15 @@
 
 ### Software Engineer | Full-Stack Developer | AI & DevOps
 
-I build full-stack applications with a strong focus on clean architecture, REST APIs, modern frontend development and practical AI integration.
+I build full-stack and mobile applications with a strong focus on clean architecture, REST APIs, modern frontend development and practical AI integration.
 
-My main focus is **full-stack software development**, with additional experience in **AI-powered applications** and **DevOps practices**.
+My main focus is **full-stack software development**, with additional experience in **mobile development, AI-powered applications and DevOps practices**.
 
 ---
 
 ## 👩‍💻 About Me
 
-* Software Engineer with hands-on experience building end-to-end web applications
+* Software Engineer with hands-on experience building end-to-end web and mobile applications
 * Strong interest in **Full-Stack Development**, backend engineering and software architecture
 * Experience integrating **AI and computer vision** features into real applications
 * Familiar with **CI/CD, code quality and application security tooling**
@@ -28,13 +28,17 @@ My main focus is **full-stack software development**, with additional experience
 
 `Python` · `Django` · `Django REST Framework` · `REST APIs` · `JWT` · `Node.js` · `Express`
 
+### Mobile
+
+`Java` · `Android Studio` · `Firebase` · `Google ML Kit`
+
 ### Databases
 
-`PostgreSQL` · `PostGIS` · `SQL`
+`PostgreSQL` · `PostGIS` · `SQL` · `Firebase Firestore`
 
 ### AI & Computer Vision
 
-`YOLO` · `OpenCV` · `Python`
+`YOLO` · `OpenCV` · `Google ML Kit` · `Python`
 
 ### DevOps & Tools
 
@@ -42,7 +46,7 @@ My main focus is **full-stack software development**, with additional experience
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### [GeoCloud360](https://github.com/mariemkhouja/geocloud360)
 
@@ -57,6 +61,18 @@ A full-stack platform for GSM infrastructure inventory and monitoring, built wit
 * Messaging and notifications
 * AI-assisted image analysis using YOLO
 
+### [SkinApp](https://github.com/mariemkhouja/skinapp-android)
+
+An Android mobile application for AI-assisted skin image analysis, built with **Java, Firebase and Google ML Kit**.
+
+**Key highlights:**
+
+* Native Android development with Java
+* Firebase Authentication and Firestore integration
+* Google ML Kit integration
+* Camera and image-processing workflow
+* AI-assisted mobile experience
+
 ---
 
 ## 🎯 Current Focus
@@ -65,6 +81,16 @@ Building production-oriented projects around:
 
 * Full-stack web development
 * Backend APIs and authentication
+* Mobile application development
 * Database design
 * AI integration
 * DevOps and software quality
+
+---
+
+## 📫 Contact
+
+Open to software engineering and full-stack development opportunities.
+
+* Email: [meriapkhooja@gmail.com](mailto:meriapkhooja@gmail.com)
+* GitHub: [github.com/mariemkhouja](https://github.com/mariemkhouja)
