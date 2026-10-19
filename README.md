@@ -1,96 +1,99 @@
 # Hi, I'm Mariem Khouja 👋
 
-### Software Engineer | Full-Stack Developer | AI & DevOps
+## Software Engineer | Quality Engineer | Full-Stack Developer
 
-I build full-stack and mobile applications with a strong focus on clean architecture, REST APIs, modern frontend development and practical AI integration.
+I am a **Quality Engineer with a Software Engineering background**, working across software testing, automation, application monitoring, issue management, and web development.
 
-My main focus is **full-stack software development**, with additional experience in **mobile development, AI-powered applications and DevOps practices**.
+My current work involves testing web applications, investigating client-reported issues, tracking defects, validating fixes, maintaining applications, and improving quality processes through automation and monitoring tools.
+
+Alongside Quality Engineering, I have a strong background in **Full-Stack Development**, REST APIs, databases, mobile development, DevSecOps, and computer vision.
 
 ---
 
 ## 👩‍💻 About Me
 
-* Software Engineer with hands-on experience building end-to-end web and mobile applications
-* Strong interest in **Full-Stack Development**, backend engineering and software architecture
-* Experience integrating **AI and computer vision** features into real applications
-* Familiar with **CI/CD, code quality and application security tooling**
-* Interested in building reliable, useful and maintainable software
+- 🔎 Working as a **Quality Engineer at Next Consult**
+- 🧪 Performing **functional and manual testing** on web applications
+- 🤖 Building automated web tests with **Playwright**
+- 🔌 Testing REST APIs with **Bruno**
+- ⚡ Running performance and load tests with **k6**
+- 🔐 Performing authorized security checks with **OWASP ZAP**
+- 🐞 Managing and tracking defects with **Redmine**
+- 📊 Preparing and maintaining **quality reports**
+- 🔄 Automating workflows with **n8n**
+- 📡 Monitoring application errors and incidents with **Sentry**
+- 🛠️ Investigating and resolving client-reported issues
+- ✅ Retesting fixes before issue closure
+- 💻 Background in **Full-Stack and Mobile Development**
 
 ---
 
-## 🛠️ Tech Stack
+# 🧪 Quality Engineering
 
-### Frontend
+<p align="left">
 
-`React` · `TypeScript` · `JavaScript` · `Vite` · `Axios` · `React Router` · `Leaflet`
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 
-### Backend
+<img src="https://img.shields.io/badge/Bruno-F4AA41?style=for-the-badge&logo=bruno&logoColor=black" />
 
-`Python` · `Django` · `Django REST Framework` · `REST APIs` · `JWT` · `Node.js` · `Express`
+<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
 
-### Mobile
+<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
 
-`Java` · `Android Studio` · `Firebase` · `Google ML Kit`
+<img src="https://img.shields.io/badge/Redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white" />
 
-### Databases
+<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
 
-`PostgreSQL` · `PostGIS` · `SQL` · `Firebase Firestore`
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 
-### AI & Computer Vision
+</p>
 
-`YOLO` · `OpenCV` · `Google ML Kit` · `Python`
+### Testing
 
-### DevOps & Tools
+`Functional Testing` • `Manual Testing` • `Regression Testing` • `Web Testing` • `API Testing` • `Performance Testing` • `Security Testing`
 
-`Git` · `GitHub` · `Docker` · `GitLab CI/CD` · `SonarQube` · `Trivy`
+### Quality & Issue Management
 
----
+`Defect Tracking` • `Bug Reporting` • `Retesting` • `Client Issue Investigation` • `Quality Reporting` • `Application Maintenance`
 
-## 🚀 Featured Projects
+### Test Automation & Monitoring
 
-### [GeoCloud360](https://github.com/mariemkhouja/geocloud360)
-
-A full-stack platform for GSM infrastructure inventory and monitoring, built with **React, TypeScript, Django REST Framework, PostgreSQL/PostGIS and YOLO**.
-
-**Key highlights:**
-
-* Role-based authentication and dashboards
-* GSM site, equipment and intervention management
-* Interactive geospatial visualization
-* REST API architecture
-* Messaging and notifications
-* AI-assisted image analysis using YOLO
-
-### [SkinApp](https://github.com/mariemkhouja/skinapp-android)
-
-An Android mobile application for AI-assisted skin image analysis, built with **Java, Firebase and Google ML Kit**.
-
-**Key highlights:**
-
-* Native Android development with Java
-* Firebase Authentication and Firestore integration
-* Google ML Kit integration
-* Camera and image-processing workflow
-* AI-assisted mobile experience
+`Playwright` • `Bruno` • `k6` • `OWASP ZAP` • `Sentry` • `n8n` • `Redmine`
 
 ---
 
-## 🎯 Current Focus
+# 🔄 My Quality Engineering Workflow
 
-Building production-oriented projects around:
+My current workflow combines manual testing, automated testing, API validation, performance testing, security checks, monitoring, and defect management.
 
-* Full-stack web development
-* Backend APIs and authentication
-* Mobile application development
-* Database design
-* AI integration
-* DevOps and software quality
-
----
-
-## 📫 Contact
-
-Open to software engineering and full-stack development opportunities.
-
-* Email: [meriapkhooja@gmail.com](mailto:meriapkhooja@gmail.com)
-* GitHub: [github.com/mariemkhouja](https://github.com/mariemkhouja)
+```text
+                WEB APPLICATION
+                       │
+                       ▼
+          ┌───────────────────────┐
+          │ Functional & Manual   │
+          │       Testing         │
+          └───────────┬───────────┘
+                      │
+                      ▼
+              Playwright Tests
+                      │
+                      ▼
+               HTML Reports
+                      │
+          ┌───────────┴───────────┐
+          │                       │
+          ▼                       ▼
+     API Testing            Defect Found
+       Bruno                     │
+          │                       ▼
+          │                    Redmine
+          │                       │
+          ▼                       ▼
+ HTTP / JSON Validation     Developer Fix
+                                  │
+                                  ▼
+                              Retesting
+                                  │
+                                  ▼
+                        Validation / Closure
