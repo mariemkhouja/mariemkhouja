@@ -1,34 +1,32 @@
 # Hi, I'm Mariem Khouja 👋
 
-## Software Engineer | Quality Engineer | Full-Stack Developer
+### Software Engineer | Full-Stack Developer | Quality Engineer | AI & DevOps
 
-I am a **Quality Engineer with a Software Engineering background**, working across software testing, automation, application monitoring, issue management, and web development.
+I am a **Software Engineer currently working as a Quality Engineer**, combining software development with hands-on testing, automation, monitoring, defect tracking, and application maintenance.
 
-My current work involves testing web applications, investigating client-reported issues, tracking defects, validating fixes, maintaining applications, and improving quality processes through automation and monitoring tools.
+My background includes **full-stack and mobile development, REST APIs, databases, AI & computer vision, DevOps practices, and software quality engineering**.
 
-Alongside Quality Engineering, I have a strong background in **Full-Stack Development**, REST APIs, databases, mobile development, DevSecOps, and computer vision.
+I enjoy building software, understanding how it behaves in real-world use, identifying issues, and improving its reliability and maintainability.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🔎 Working as a **Quality Engineer at Next Consult**
-- 🧪 Performing **functional and manual testing** on web applications
-- 🤖 Building automated web tests with **Playwright**
-- 🔌 Testing REST APIs with **Bruno**
-- ⚡ Running performance and load tests with **k6**
-- 🔐 Performing authorized security checks with **OWASP ZAP**
-- 🐞 Managing and tracking defects with **Redmine**
-- 📊 Preparing and maintaining **quality reports**
-- 🔄 Automating workflows with **n8n**
-- 📡 Monitoring application errors and incidents with **Sentry**
-- 🛠️ Investigating and resolving client-reported issues
-- ✅ Retesting fixes before issue closure
-- 💻 Background in **Full-Stack and Mobile Development**
+- Software Engineer with hands-on experience building end-to-end web and mobile applications
+- Currently working as a **Quality Engineer at Next Consult**
+- Strong interest in **Full-Stack Development**, backend engineering, software architecture, and software quality
+- Experience with **functional and manual testing**, test automation, API testing, performance testing, and security testing
+- Experience integrating **AI and computer vision** features into real applications
+- Familiar with **CI/CD, code quality, monitoring, and application security tooling**
+- Interested in building reliable, useful, maintainable, and well-tested software
 
 ---
 
-# 🧪 Quality Engineering
+## 🧪 Quality Engineering
+
+I currently work across the software quality process, from functional validation and defect tracking to automated testing, monitoring, client issue handling, maintenance, and retesting after fixes.
+
+### 🔧 Quality Engineering Tools
 
 <p align="left">
 
@@ -38,7 +36,7 @@ Alongside Quality Engineering, I have a strong background in **Full-Stack Develo
 
 <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
 
-<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white" />
 
@@ -46,54 +44,186 @@ Alongside Quality Engineering, I have a strong background in **Full-Stack Develo
 
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 
+<img src="https://img.shields.io/badge/Allure-FF6A00?style=for-the-badge&logo=qameta&logoColor=white" />
+
 </p>
 
 ### Testing
 
-`Functional Testing` • `Manual Testing` • `Regression Testing` • `Web Testing` • `API Testing` • `Performance Testing` • `Security Testing`
+`Functional Testing` · `Manual Testing` · `Regression Testing` · `Web Testing` · `API Testing` · `Performance Testing` · `Security Testing`
+
+### Test Automation
+
+`Playwright` · `HTML Reports` · `Allure Reports`
+
+### API Testing
+
+`Bruno` · `HTTP Validation` · `JSON Validation` · `Error Handling`
+
+### Performance & Security
+
+`k6` · `OWASP ZAP`
 
 ### Quality & Issue Management
 
-`Defect Tracking` • `Bug Reporting` • `Retesting` • `Client Issue Investigation` • `Quality Reporting` • `Application Maintenance`
+`Redmine` · `Defect Tracking` · `Bug Reporting` · `Retesting` · `Client Issue Investigation` · `Quality Reporting`
 
-### Test Automation & Monitoring
+### Monitoring & Automation
 
-`Playwright` • `Bruno` • `k6` • `OWASP ZAP` • `Sentry` • `n8n` • `Redmine`
+`Sentry` · `n8n`
+
+### Application Support
+
+`Application Maintenance` · `Client Complaints` · `Issue Reproduction` · `Fix Validation`
 
 ---
 
-# 🔄 My Quality Engineering Workflow
+## 🛠️ Tech Stack
 
-My current workflow combines manual testing, automated testing, API validation, performance testing, security checks, monitoring, and defect management.
+### 🎨 Frontend
 
-```text
-                WEB APPLICATION
-                       │
-                       ▼
-          ┌───────────────────────┐
-          │ Functional & Manual   │
-          │       Testing         │
-          └───────────┬───────────┘
-                      │
-                      ▼
-              Playwright Tests
-                      │
-                      ▼
-               HTML Reports
-                      │
-          ┌───────────┴───────────┐
-          │                       │
-          ▼                       ▼
-     API Testing            Defect Found
-       Bruno                     │
-          │                       ▼
-          │                    Redmine
-          │                       │
-          ▼                       ▼
- HTTP / JSON Validation     Developer Fix
-                                  │
-                                  ▼
-                              Retesting
-                                  │
-                                  ▼
-                        Validation / Closure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite" />
+</p>
+
+`React` · `TypeScript` · `JavaScript` · `HTML5` · `CSS3` · `Vite` · `Axios` · `React Router` · `Leaflet`
+
+---
+
+### ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express" />
+</p>
+
+`Python` · `Django` · `Django REST Framework` · `REST APIs` · `JWT` · `Node.js` · `Express`
+
+---
+
+### 📱 Mobile Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase" />
+</p>
+
+`Java` · `Kotlin` · `Android Studio` · `Firebase` · `Google ML Kit`
+
+---
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
+</p>
+
+`PostgreSQL` · `PostGIS` · `MySQL` · `MongoDB` · `SQL` · `Firebase Firestore`
+
+---
+
+### 🤖 AI & Computer Vision
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+`YOLOv8` · `OpenCV` · `TensorFlow` · `Scikit-learn` · `NLP` · `Transformers` · `Google ML Kit`
+
+---
+
+### ♾️ DevOps & Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vscode,figma" />
+</p>
+
+`Git` · `GitHub` · `GitLab CI/CD` · `Docker` · `Linux` · `SonarQube` · `Trivy` · `VS Code` · `Figma`
+
+---
+
+## 🚀 Featured Projects
+
+### 📡 [GeoCloud360](https://github.com/mariemkhouja/geocloud360)
+
+A full-stack platform for GSM infrastructure inventory and monitoring, built with **React, TypeScript, Django REST Framework, PostgreSQL/PostGIS and YOLOv8**.
+
+**Key highlights:**
+
+- Role-based authentication and dashboards
+- GSM site and equipment management
+- Field intervention management
+- Interactive geospatial visualization
+- REST API architecture
+- JWT authentication
+- Messaging and notifications
+- Technician monitoring
+- AI-assisted image analysis using YOLOv8
+
+**Technologies**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,python,django,postgres" />
+</p>
+
+`React` · `TypeScript` · `Django REST Framework` · `PostgreSQL` · `PostGIS` · `Leaflet` · `Python` · `OpenCV` · `YOLOv8`
+
+---
+
+### 🩺 [SkinApp](https://github.com/mariemkhouja/skinapp-android)
+
+An Android mobile application for AI-assisted skin image analysis, built with **Java, Firebase and Google ML Kit**.
+
+**Key highlights:**
+
+- Native Android development with Java
+- Firebase integration
+- Google ML Kit integration
+- Camera and image-processing workflow
+- AI-assisted mobile experience
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,firebase" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+My current work combines **Software Engineering and Quality Engineering**.
+
+### Software Development
+
+`Full-Stack Development` · `REST APIs` · `Backend Development` · `Mobile Development` · `Databases` · `AI Integration`
+
+### Quality Engineering
+
+`Functional Testing` · `Manual Testing` · `Playwright Automation` · `API Testing` · `Performance Testing` · `Security Testing`
+
+### Quality Tools
+
+`Playwright` · `Bruno` · `k6` · `OWASP ZAP` · `Redmine` · `Sentry` · `n8n` · `Allure`
+
+### DevOps
+
+`Git` · `GitHub` · `GitLab CI/CD` · `Docker` · `SonarQube` · `Trivy`
+
+---
+
+## 📫 Contact
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/mariem-khooja/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mariem_Khouja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:mariakhooja@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/mariemkhouja">
+  <img src="https://img.shields.io/badge/GitHub-mariemkhouja-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+Open to opportunities in **Software Engineering, Quality Engineering, Full-Stack Development, and Test Automation**.
